@@ -1106,7 +1106,7 @@ div.my_menu {
 .my_menu > ul li > a:hover,
 .my_menu > ul li.current > a,
 .my_menu > ul li.current > a:hover {
-    color: gold;
+    color: #ceb149;
     background:none;
 }
 .my_menu ul {
