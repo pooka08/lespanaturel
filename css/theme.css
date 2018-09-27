@@ -142,7 +142,7 @@ img {
     zoom: 1;
     z-index: 25;
     background:#fff;
-    border-top:4px goldenrod solid;
+    border-top:4px #ceb149 solid;
     padding: 14px 0 7px 0;
     margin: 0;
 }
@@ -172,7 +172,7 @@ img {
 .menu_wrap .nav > li > ul li.sfHover > a,
 .menu_wrap .nav > li > ul li.current > a {
     text-decoration: none;
-    color:goldenrod;
+    color:#ceb149;
 }
 .menu_wrap .nav > li > ul li > a:hover:before,
 .menu_wrap .nav > li > ul li.sfHover > a:before { background: none;
@@ -313,7 +313,7 @@ h2.title a {
     text-transform:uppercase;
 }
 h2.title a:hover {
-    color:goldenrod;
+    color:#ceb149;
     text-decoration:none;
 }
 p.last {margin-bottom:15px;
@@ -368,14 +368,14 @@ h2.upper {
     text-transform:uppercase;
     font-family: 'Open Sans', sans-serif;
     font-weight:400;
-    color:goldenrod;
+    color:#ceb149;
 }
 .post_carousel .title_t a, .news_t a {
     font-size:17px;
     text-transform:uppercase;
     font-family: 'Open Sans', sans-serif;
     font-weight:400;
-    color:goldenrod;
+    color:#ceb149;
 }
 .post_carousel .title_t a:hover, .news_t a:hover {
     text-decoration:none;
@@ -393,12 +393,12 @@ h2.upper {
     font-style:italic;
 }
 .post_meta a:hover, .news a:hover {
-    color:goldenrod;
+    color:#ceb149;
     text-decoration:none;
 }
 .arrow_link {
     font-style:italic;
-    color:goldenrod;
+    color:#ceb149;
 }
 .arrow_link:hover {
     text-decoration:none;
@@ -448,7 +448,7 @@ h2.upper {
 .news_info {color:#1e1e1e;
 }
 .news_info a {
-    color:goldenrod;
+    color:#ceb149;
     font-style:italic;
 }
 .news_info a:hover {
@@ -464,7 +464,7 @@ h2.upper {
     line-height:16px;
 }
 #footer a {
-    color:goldenrod;
+    color:#ceb149;
     font-style:italic;
 }
 #footer h2.title {
@@ -522,11 +522,11 @@ ul.tweets li {
 }
 .author {
     padding-top:7px;
-    color:goldenrod;
+    color:#ceb149;
     font-style:italic;
 }
 .author a {
-    color:goldenrod;
+    color:#ceb149;
     font-style:italic;
 }
 
@@ -801,7 +801,7 @@ legend {
 }
 #filters li a.selected {
     color: #fff;
-    background:goldenrod;
+    background:#ceb149;
     text-decoration:none;
 }
 .preloader {
@@ -857,7 +857,7 @@ ul.links li {
 }
 ul.links li a {	color:#313131;
 }
-ul.links li a:hover {color:goldenrod;
+ul.links li a:hover {color:#ceb149;
 }
 
 .post img {
@@ -872,7 +872,7 @@ ul.links li a:hover {color:goldenrod;
     margin-bottom:12px;
     color:#313131;
 }
-.post_info span {color:goldenrod;
+.post_info span {color:#ceb149;
 }
 .post img {border-radius:3px;
 }
@@ -913,7 +913,7 @@ ul.recent_post div {padding:3px 0 2px 0;
 }
 ul.recent_post div a {color:#313131;
 }
-ul.recent_post div a:hover {color:goldenrod;
+ul.recent_post div a:hover {color:#ceb149;
 }
 
 .tags a {
@@ -930,7 +930,7 @@ ul.recent_post div a:hover {color:goldenrod;
 }
 .tags a:hover {
     background-position:100% -33px;
-    border-left:1px goldenrod solid;
+    border-left:1px #ceb149 solid;
     color:#fff;
     text-decoration:none;
 }
