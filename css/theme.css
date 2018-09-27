@@ -1007,4 +1007,11 @@ ul.recent_post div a:hover {color:#ceb149;
     padding: 10px;
     text-align: center;
 }
+@font-face {
+    font-family: 'parisienneregular';
+    src: url('../fonts/parisienne-regular-webfont.woff2') format('woff2'),
+    url('../fonts/parisienne-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
