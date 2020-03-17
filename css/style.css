@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6, figure {
       -o-transition: 0.5s;
       transition: 0.5s; }
       .colorlib-nav ul li a:hover {
-        color: #FFC300; }
+        color: black; }
     .colorlib-nav ul li.has-dropdown {
       position: relative; }
       .colorlib-nav ul li.has-dropdown .dropdown {
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6, figure {
             .colorlib-nav ul li.has-dropdown .dropdown li a:hover {
               color: #fff; }
       .colorlib-nav ul li.has-dropdown:hover a, .colorlib-nav ul li.has-dropdown:focus a {
-        color: #FFC300; }
+        color: black; }
     .colorlib-nav ul li.btn-cta a {
       padding: 30px 0px !important;
       color: #fff; }
@@ -191,6 +191,9 @@ h1, h2, h3, h4, h5, h6, figure {
         box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75); }
     .colorlib-nav ul li.active > a {
       color: #FFC300 !important;
+      position: relative; }
+    .colorlib-nav ul li.active_2 > a {
+      color: white !important;
       position: relative; }
       .colorlib-nav ul li.active > a:after {
         opacity: 1;
